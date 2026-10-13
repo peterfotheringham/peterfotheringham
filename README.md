@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Peter
 
-<!--
-**peterfotheringham/peterfotheringham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Canadian-Brit living in London. This is my personal corner of GitHub, where I build things for myself: small apps, experiments, and tools for family life, running and learning.
 
-Here are some ideas to get you started:
+### What you'll find here
+- Side projects and experiments
+- Notes and things I've learned
+- Mostly Python and JavaScript, plus whatever I'm curious about this month
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Elsewhere on GitHub
+- Work at The Smarty Train: [@TSTPeter](https://github.com/TSTPeter)
+- Research at the University of Cambridge: [@pbff2](https://github.com/pbff2)
+
+### Find me
+[Website](https://www.peterfotheringham.com) · [LinkedIn](https://www.linkedin.com/in/petefotheringham) · [ORCID](https://orcid.org/0000-0002-9247-4160)
